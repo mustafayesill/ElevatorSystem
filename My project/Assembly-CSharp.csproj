@@ -60,9 +60,10 @@
     <Analyzer Include="C:\Program Files\Unity\Hub\Editor\2022.3.20f1\Editor\Data\Tools\Unity.SourceGenerators\Unity.Properties.SourceGenerator.dll" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Assets\playermovement.cs" />
-    <Compile Include="Assets\elevator.cs" />
-    <Compile Include="Assets\Trial.cs" />
+    <Compile Include="Assets\Scripts\playermovement.cs" />
+    <Compile Include="Assets\Scripts\elevator.cs" />
+    <Compile Include="Assets\Scripts\Trial.cs" />
+    <Compile Include="Assets\Scripts\Elevatorr.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="Assets\TextMesh Pro\Shaders\TMPro.cginc" />

@@ -7,6 +7,10 @@ TagManager:
   - Enter
   - Exit
   - Floor2
+  - Enter2
+  - Entrance1
+  - Entrance2
+  - Enter1
   layers:
   - Default
   - TransparentFX
